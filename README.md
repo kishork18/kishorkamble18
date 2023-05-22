@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishor Kamble</h1>
 <h3 align="center">"JavaBackend Developer: Crafting efficient and reliable backend applications with Java to power seamless user experiences."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorkamble18&label=Profile%20views&color=0e75b6&style=flat" alt="kishorkamble18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishorkamble18" alt="kishorkamble18" /></a> </p>
-
 - 🔭 I’m currently working on [Student automation system](https://github.com/kishorkamble18/human-bee-8845)
 
 - 🌱 I’m currently learning **Java😊.**
@@ -22,6 +18,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rYbtNx46paU8dbcP_C6t525rojEzoI7h/view?usp=sharing](https://drive.google.com/file/d/1rYbtNx46paU8dbcP_C6t525rojEzoI7h/view?usp=sharing)
 
 - ⚡ Fun fact **Eat code sleep repeat 😁.**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorkamble18&label=Profile%20views&color=0e75b6&style=flat" alt="kishorkamble18" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishorkamble18" alt="kishorkamble18" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
